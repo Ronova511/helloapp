@@ -11,6 +11,7 @@ namespace HelloAppBlack
         static void SayHello()
         {
             Console.WriteLine("hello white");
+            Console.WriteLine("hello everyone");
         }
     }
 }
