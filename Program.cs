@@ -6,12 +6,11 @@ namespace HelloAppBlack
     {
         static void Main(string[] args)
         {
-            SayHello();
         }
 
         static void SayHello()
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello white");
         }
     }
 }
